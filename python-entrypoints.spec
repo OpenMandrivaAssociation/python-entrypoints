@@ -65,7 +65,7 @@ popd
 
 
 %install
-%py3_install
+%py_install
 
 %files
 %license LICENSE
