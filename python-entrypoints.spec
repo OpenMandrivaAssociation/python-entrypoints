@@ -14,7 +14,7 @@ Group:		Development/Python
 License:	BSD
 BuildArch:	noarch
 BuildRequires:	python3dist(pip)
-BuildRequires:	python3dist(flit)
+#BuildRequires:	python3dist(flit)
 BuildRequires:	python3dist(sphinx)
 
 
